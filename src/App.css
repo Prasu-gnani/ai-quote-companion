@@ -67,3 +67,10 @@ body {
   margin-bottom: 0.5rem;
   list-style-type: disc;
 }
+body {
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+.card {
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
